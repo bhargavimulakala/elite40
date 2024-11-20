@@ -1,9 +1,0 @@
-.container .content > p {
-    color: blue;
-}
-.container .main + p {
-    color: brown;
-}
-.container .context ~ p {
-    color: blueviolet;
-}
